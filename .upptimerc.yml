@@ -1,23 +1,23 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: mohorojo # Your GitHub username
+repo: upptime_test # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: GTS3.org
+    url: https://gts3.org
+  - name: Gitlab @ SSLAB
+    url: https://gl.gtisc.gatech.edu
+  - name: Mattermost
+    url: https://mttmst.gtisc.gatech.edu
+  - name: Firefox File Send
+    url: https://ffs.gtisc.gatech.edu
   - name: Secret Site
     url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg

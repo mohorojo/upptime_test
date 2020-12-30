@@ -30,7 +30,7 @@ status-website:
   introMessage: This is a SSLAB service status page.
   navbar:
     - title: Status
-      href: /
+      href: /upptime_test
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: GTS3.org

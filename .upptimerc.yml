@@ -12,6 +12,10 @@ sites:
     url: https://mttmst.gtisc.gatech.edu
   - name: Firefox File Send
     url: https://ffs.gtisc.gatech.edu
+  - name: taesoo.kim
+    url: https://taesoo.kim
+  - name: wenke lee
+    url: https://wenke.gtisc.gatech.edu
 #  - name: Secret Site
 #    url: $SECRET_SITE
 
@@ -29,6 +33,12 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: GTS3.org
+      href: https://gts3.org
+    - title: Gitlab
+      href: https://gl.gtisc.gatech.edu
+    - title: Mattermost
+      href: https://mttmst.gtisc.gatech.edu
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

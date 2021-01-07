@@ -78,19 +78,19 @@
     "url": "https://allspark.gtisc.gatech.edu:5001/",
     "icon": "https://favicons.githubusercontent.com/allspark.gtisc.gatech.edu",
     "slug": "cs-6265-submission",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 192,
+    "timeDay": 192,
+    "timeWeek": 192,
+    "timeMonth": 192,
+    "timeYear": 192,
     "dailyMinutesDown": {
-      "2021-01-07": 1
+      "2021-01-07": 23
     }
   },
   {

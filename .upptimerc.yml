@@ -16,8 +16,6 @@ sites:
     url: https://allspark.gtisc.gatech.edu:5001/
   - name: taesoo.kim
     url: https://taesoo.kim
-  - name: wenke lee
-    url: https://wenke.gtisc.gatech.edu
 #  - name: Secret Site
 #    url: $SECRET_SITE
 

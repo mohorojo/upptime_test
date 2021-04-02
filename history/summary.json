@@ -4,7 +4,7 @@
     "url": "https://gts3.org",
     "icon": "https://favicons.githubusercontent.com/gts3.org",
     "slug": "gts-3-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 308,
     "timeDay": 359,
-    "timeWeek": 370,
+    "timeWeek": 367,
     "timeMonth": 307,
     "timeYear": 308,
     "dailyMinutesDown": {

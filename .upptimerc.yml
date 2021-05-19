@@ -13,7 +13,7 @@ sites:
   - name: Firefox File Send
     url: https://ffs.gtisc.gatech.edu
   - name: CS6265 submission
-    url: https://allspark.gtisc.gatech.edu:5001/
+    url: https://allspark.gtisc.gatech.edu:5006/
   - name: taesoo.kim
     url: https://taesoo.kim
 #  - name: Secret Site

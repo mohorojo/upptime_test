@@ -100,9 +100,9 @@
     "url": "https://taesoo.kim",
     "icon": "https://favicons.githubusercontent.com/taesoo.kim",
     "slug": "taesoo-kim",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,6 +111,8 @@
     "timeWeek": 475,
     "timeMonth": 442,
     "timeYear": 475,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-19": 0
+    }
   }
 ]

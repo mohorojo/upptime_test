@@ -100,19 +100,19 @@
     "url": "https://taesoo.kim",
     "icon": "https://favicons.githubusercontent.com/taesoo.kim",
     "slug": "taesoo-kim",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 513,
-    "timeWeek": 475,
-    "timeMonth": 442,
-    "timeYear": 475,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 473,
+    "timeDay": 329,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2021-08-19": 0
+      "2021-08-19": 21
     }
   }
 ]

@@ -4,19 +4,19 @@
     "url": "https://gts3.org",
     "icon": "https://favicons.githubusercontent.com/gts3.org",
     "slug": "gts-3-org",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 320,
     "timeDay": 542,
     "timeWeek": 357,
     "timeMonth": 379,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2021-09-14": 14,
+      "2021-09-14": 3,
       "2021-01-05": 44
     }
   },
@@ -25,11 +25,11 @@
     "url": "https://gl.gtisc.gatech.edu",
     "icon": "https://favicons.githubusercontent.com/gl.gtisc.gatech.edu",
     "slug": "gitlab-sslab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 379,
     "timeDay": 474,
@@ -37,7 +37,7 @@
     "timeMonth": 400,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2021-09-14": 13
+      "2021-09-14": 2
     }
   },
   {
@@ -45,11 +45,11 @@
     "url": "https://mttmst.gtisc.gatech.edu",
     "icon": "https://favicons.githubusercontent.com/mttmst.gtisc.gatech.edu",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
     "timeDay": 396,
@@ -57,7 +57,7 @@
     "timeMonth": 305,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2021-09-14": 13
+      "2021-09-14": 2
     }
   },
   {
@@ -65,11 +65,11 @@
     "url": "https://ffs.gtisc.gatech.edu",
     "icon": "https://favicons.githubusercontent.com/ffs.gtisc.gatech.edu",
     "slug": "firefox-file-send",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
     "timeDay": 365,
@@ -77,7 +77,7 @@
     "timeMonth": 318,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2021-09-14": 12
+      "2021-09-14": 1
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://allspark.gtisc.gatech.edu:5006/",
     "icon": "https://favicons.githubusercontent.com/allspark.gtisc.gatech.edu",
     "slug": "cs-6265-submission",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 873,
     "timeDay": 539,
     "timeWeek": 415,
     "timeMonth": 621,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2021-09-14": 12,
+      "2021-09-14": 1,
       "2021-07-20": 17,
       "2021-01-12": 45,
       "2021-01-07": 23
@@ -108,11 +108,11 @@
     "url": "https://taesoo.kim",
     "icon": "https://favicons.githubusercontent.com/taesoo.kim",
     "slug": "taesoo-kim",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 480,
     "timeDay": 659,
@@ -120,7 +120,7 @@
     "timeMonth": 521,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2021-09-14": 11,
+      "2021-09-14": 0,
       "2021-08-19": 21
     }
   }
